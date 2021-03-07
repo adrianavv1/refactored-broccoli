@@ -40,4 +40,14 @@ router.get("/api/workouts", (req, res) => {
     });
 });
 
+router.get("/api/workouts", (req, res) => {
+  Workout.find({})
+  .then(dbWorkout => {
+    res.json(dbWorkout);
+  })
+  .catch(err => {
+    res.status(400).json(err);
+  });
+});
+
 module.exports = router;
