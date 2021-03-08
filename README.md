@@ -4,8 +4,6 @@ This is your personal Fitness Tracker, that tracks resistance and cardio exercis
 
 This application is deployed to Heroku here: --insert link--
 
---gif insert here--
-
 ## User Story 
 
 ```
@@ -53,9 +51,7 @@ The user should then be able to:
    ```
   ## Usage 
 
-
-
-
+![GIF](/gif/Untitled_%20Mar%207,%202021%208_40%20PM.gif)
   ## Tests 
 
   Make sure all tests pass before deploying website.
