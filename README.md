@@ -34,11 +34,39 @@ The user should then be able to:
 
   * View the total duration of each workout from the past seven workouts on the `stats` page.
 
+  ## Installation
+  
+  IMPORTANT!
+  Must have MongoDB installed locally on your device.
+
+  First clone this repo. 
+  ` git clone https://github.com/adrianavv1/refactored-broccoli.git `
+  
+   Then install dependencies in your terminal-
+   
+   ```
+   npm install
+   ``` 
+
+   ```
+   npm run seed
+   ```
   ## Usage 
+
+
+
+
+  ## Tests 
+
+  Make sure all tests pass before deploying website.
 
   ## License 
 
   [MIT](https://mit-license.org/)
+
+  ## Contributing 
+
+  Contributions are always welcomed. Submit a pull request anytime.  
 
   ## Contact
 
