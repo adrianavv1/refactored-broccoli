@@ -2,7 +2,7 @@
 
 This is your personal Fitness Tracker, that tracks resistance and cardio exercises that formulate your daily work outs. 
 
-This application is deployed to Heroku here: --insert link--
+This application is deployed to Heroku here: https://refactored-broccoli.herokuapp.com/
 
 ## User Story 
 
@@ -51,7 +51,8 @@ The user should then be able to:
    ```
   ## Usage 
 
-![GIF](/gif/Untitled_%20Mar%207,%202021%208_40%20PM.gif)
+![GIF](public\assets\gif\demo.gif)
+ 
   ## Tests 
 
   Make sure all tests pass before deploying website.
