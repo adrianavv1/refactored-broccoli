@@ -33,3 +33,13 @@ The user should then be able to:
   * View the combined weight of multiple exercises on the `stats` page.
 
   * View the total duration of each workout from the past seven workouts on the `stats` page.
+
+  ## Usage 
+
+  ## License 
+
+  [MIT](https://mit-license.org/)
+
+  ## Contact
+
+  Have any question? you can contact me here [Github](https://github.com/adrianavv1)
